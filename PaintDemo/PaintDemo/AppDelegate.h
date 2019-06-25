@@ -1,0 +1,19 @@
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+///	
+///  @file       AppDelegate.h
+///  @copyright  Copyright © 2019 小灬豆米. All rights reserved.
+///  @brief      AppDelegate
+///  @date       2019/6/23
+///  @author     小灬豆米
+///
+/////////////////////////////////////////////////////////////////////////////////////////////////////
+
+#import <UIKit/UIKit.h>
+
+@interface AppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
+
+
+@end
+
